@@ -332,8 +332,9 @@ SecurityEvent
 * IOC Investigation (nslookup / IP-based hunting)
 * MITRE ATT&CK Technique Mapping (T1036, T1105, T1071, T1574)
 * Microsoft Sentinel Log Analysis & Hunting
+* KQL Detection Query Writing for Sysmon Event IDs 1, 3, 7, 22 (queries written; Event ID 1 results confirmed)
 * Detection Engineering Validation
-* Endpoint Telemetry Analysis (Sysmon Event IDs 1, 3, 7, 11, 13, 22)
+* Endpoint Telemetry Analysis (Sysmon Event ID 1 -- Process Creation confirmed)
 
 ---
 
