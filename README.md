@@ -347,7 +347,7 @@ SecurityEvent
 ## 🔗 Related Projects
 
 > Part of the **Bikash Security Lab** series:
-> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/microsoft-sentinel-defender-xdr-soc-ir-lab)
+> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)
 > * [Microsoft Sentinel — GeoIP Watchlist & Attack Map](https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map)
 
 ---
