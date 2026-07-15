@@ -28,6 +28,7 @@
 | [LummaC2_Threat_Hunting_Lab_Report.pdf](./LummaC2_Threat_Hunting_Lab_Report.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
+<br>
 
 ## 📋 Overview
 
