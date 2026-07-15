@@ -16,18 +16,16 @@
 ---
 
 **Prepared by:** Bikash Raya
-**Project Type:** Hypothesis-Driven Threat Hunting — CISA Advisory AA25-141b (LummaC2 / Lumma Stealer)
 
 </div>
 
 ---
 
-## 📁 Repository Structure
+## 📁 Full Lab Walkthrough — Proof of Work
 
 | File | Description |
 | --- | --- |
-| [LummaC2_Threat_Hunting_Lab_Report.pdf](./LummaC2_Threat_Hunting_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
-| README.md | Project overview |
+| [LummaC2_Threat_Hunting_Lab_Report.pdf](./LummaC2_Threat_Hunting_Lab_Report.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 
@@ -347,8 +345,14 @@ SecurityEvent
 ## 🔗 Related Projects
 
 > Part of the **Bikash Security Lab** series:
-> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/microsoft-sentinel-defender-xdr-soc-ir-lab)
+> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)
 > * [Microsoft Sentinel — GeoIP Watchlist & Attack Map](https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map)
+> * [Vulnerable Web Server — RCE Detection & IR](https://github.com/Bikash-Raya/vulnerable-webserver-rce-detection-incident-response-)
+> * [System Hardening Lab](https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./LummaC2_Threat_Hunting_Lab_Report.pdf)
 
 ---
 
